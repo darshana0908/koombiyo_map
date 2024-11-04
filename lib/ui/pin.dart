@@ -69,7 +69,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ],
     ));
   }
-
+// completed
   data() async {
     setState(() {
       isLoading = true;
